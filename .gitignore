@@ -1,0 +1,12 @@
+# Kubernetes secrets
+k8s/secret.yaml
+
+# Node.js
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
